@@ -1,0 +1,1 @@
+/home/yxxiang/data/miniconda/etc/profile.d/conda.sh
